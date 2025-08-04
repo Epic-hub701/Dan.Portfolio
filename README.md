@@ -17,3 +17,20 @@ Features
 - CSS: Flexbox, Grid, and custom animations
 - Font Awesome: For beautiful icons
 - Google Fonts: Using Poppins typeface
+
+  My structure
+portfolio/
+├── index.html          # Main HTML file
+├── style.css           # All styling
+├── pics/               # All images
+│   ├── me.jpg          # Profile photo
+│   ├── me.png          # Logo
+│   ├── project1.jpg    # Project screenshot
+│   └── project3.jpg    # Project screenshot
+├── doc/                # Documents
+│   └── CV.docx         # Your resume
+└── images/             # Social media icons
+    ├── Github-Dark.webp
+    ├── instagram.webp
+    ├── linkedin.webp
+    └── whatsapp.webp
